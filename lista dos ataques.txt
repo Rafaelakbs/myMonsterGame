@@ -1,0 +1,196 @@
+TIPO : FOGO
+
+    ATAQUES RAPIDOS:
+        RAJADA DE FOGO
+            - 5 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ERUPÇÃO DE FOGO
+            - 12 DANO
+            - 3 USOS
+            - EFEITO: INCENDIADO 
+
+TIPO : AGUA
+
+     ATAQUES RAPIDOS:
+        ESGUICHO DE AGUA
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ALAGAMENTO
+            - 9 DANO
+            - 5 USOS
+
+TIPO : PLANTA
+
+    ATAQUES RAPIDOS:
+        TIRO VENENOSO
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        SEMENTES VENENOSAS
+            - 10 DANO
+            - 4 USOS
+            - EFEITO: ENVENENADO 
+
+TIPO : DRAGAO
+
+    ATAQUES RAPIDOS:
+        ASAS CORTANTES
+            - 5 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        PULSO DO DRAGÃO
+            - 12 DANO
+            - 4 USOS
+
+TIPO : PSIQUICO
+
+    ATAQUES RAPIDOS:
+        RAIO PSIQUICO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        CONFUSAO MENTAL
+            - 5 DANO
+            - 4 USOS
+            - EFEITO: ATORDOADO
+
+TIPO : FADA
+
+    ATAQUES RAPIDOS:
+        CANTO MÁGICO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BONS SONHOS
+            - 0 DANO
+            - 10 USOS
+            - EFEITO: DORMINDO
+
+TIPO : SOMBRIO
+
+    ATAQUES RAPIDOS:
+        ROSNADO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ESCURIDAO
+            - 8 DANO
+            - 5 USOS
+
+TIPO : FANTASMA
+
+    ATAQUES RAPIDOS:
+        GARRA FANTASMAGÓRICA
+            - 3 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BOLA SOMBRIA
+            - 15 DANO
+            - 2 USOS
+
+TIPO : LUTADOR
+
+    ATAQUES RAPIDOS:
+        VOADORA
+            - 7 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ANTONIO NUNES
+            - 12 DANO
+            - 2 USOS
+
+TIPO : PEDRA
+
+    ATAQUES RAPIDOS:
+        ARREMEÇO DE PEDRA
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        DESMORONAMENTO
+            - 8 DANO
+            - 7 USOS
+
+TIPO : TERRA
+
+    ATAQUES RAPIDOS:
+        TAPA DE LAMA
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        TERREMOTO
+            - 10 DANO
+            - 4 USOS
+
+TIPO : NORMAL
+
+    ATAQUES RAPIDOS:
+        ATAQUE MALANDRO
+            - 4 DANO
+            - USOS INFINITOS
+
+        MORDIDA
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BARRIGADA
+            - 12 DANO
+            - 3 USOS
+
+        HIPER FEIXE
+            - 17 DANO
+            - 1 USO      
+           
+
+             
+            
+

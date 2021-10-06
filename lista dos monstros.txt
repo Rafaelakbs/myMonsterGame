@@ -1,0 +1,361 @@
+TIPO : FOGO
+
+    ATAQUES RAPIDOS:
+        RAJADA DE FOGO
+            - 5 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ERUPÇÃO DE FOGO
+            - 12 DANO
+            - 3 USOS
+            - EFEITO: INCENDIADO 
+
+TIPO : AGUA
+
+     ATAQUES RAPIDOS:
+        ESGUICHO DE AGUA
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ALAGAMENTO
+            - 9 DANO
+            - 5 USOS
+
+TIPO : PLANTA
+
+    ATAQUES RAPIDOS:
+        TIRO VENENOSO
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        SEMENTES VENENOSAS
+            - 10 DANO
+            - 4 USOS
+            - EFEITO: ENVENENADO 
+
+TIPO : DRAGAO
+
+    ATAQUES RAPIDOS:
+        ASAS CORTANTES
+            - 5 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        PULSO DO DRAGÃO
+            - 12 DANO
+            - 4 USOS
+
+TIPO : PSIQUICO
+
+    ATAQUES RAPIDOS:
+        RAIO PSIQUICO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        CONFUSAO MENTAL
+            - 5 DANO
+            - 4 USOS
+            - EFEITO: ATORDOADO
+
+TIPO : FADA
+
+    ATAQUES RAPIDOS:
+        CANTO MÁGICO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BONS SONHOS
+            - 0 DANO
+            - 10 USOS
+            - EFEITO: DORMINDO
+
+TIPO : SOMBRIO
+
+    ATAQUES RAPIDOS:
+        ROSNADO
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ESCURIDAO
+            - 8 DANO
+            - 5 USOS
+
+TIPO : FANTASMA
+
+    ATAQUES RAPIDOS:
+        GARRA FANTASMAGÓRICA
+            - 3 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BOLA SOMBRIA
+            - 15 DANO
+            - 2 USOS
+
+TIPO : LUTADOR
+
+    ATAQUES RAPIDOS:
+        VOADORA
+            - 7 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        ANTONIO NUNES
+            - 12 DANO
+            - 2 USOS
+
+TIPO : PEDRA
+
+    ATAQUES RAPIDOS:
+        ARREMEÇO DE PEDRA
+            - 4 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        DESMORONAMENTO
+            - 8 DANO
+            - 7 USOS
+
+TIPO : TERRA
+
+    ATAQUES RAPIDOS:
+        TAPA DE LAMA
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        TERREMOTO
+            - 10 DANO
+            - 4 USOS
+
+TIPO : NORMAL
+
+    ATAQUES RAPIDOS:1 -
+    NOME: BOITATÁ
+
+    TIPO: FOGO  
+
+    DESCRIÇÃO:  Jiboia de fogo que vive na beira 
+    dos rios e pode representar o fogo fátuo formado
+    por cadáveres apodrecendo em solo pantanoso.
+    GOLPES: 
+
+2 - 
+    NOME: CUCA
+
+    TIPO: DRAGÃO/PSIQUICO
+
+    DESCRIÇÃO: Semelhante ao dragão Coco/Coca das
+    procissões de Corpus-Christi, a Cuca no Brasil 
+    se tornou uma bruxa com aspectos reptilianos 
+    que come crianças ou as usa para fazer magia.   
+
+3 -
+    NOME: BOTO
+
+    TIPO: AGUA/FADA
+
+    DESCRIÇÃO: Dizia-se que o boto cor-de-rosa podia 
+    se transformar em um belo moço para seduzir e 
+    engravidar moças que viviam próximas aos rios. 
+    Precisava usar um chapéu para esconder seu orifício 
+    respiratório. 
+
+4 - 
+    NOME: CABRA CABRIOLA
+
+    TIPO: SOMBRIO
+
+    DESCRIÇÃO: No Ceará e no Pará, este ser pode se 
+    disfarçar no meio das cabras pelo dia, mas de 
+    noite anda em duas patas e entra pelas janelas 
+    abertas para comer crianças.
+
+5 - 
+    NOME: CHIBAMBA
+
+    TIPO: PLANTA
+
+    DESCRIÇÃO: Uma pessoa escravizada que morreu açoitada, 
+    passou a se vestir com folhas de bananeira e anda 
+    pelo Sul de Minas buscando vingança e roncando como 
+    um porco. 
+
+6 - 
+    NOME: CORPO-SECO
+
+    TIPO: FANTASMA
+
+    DESCRIÇÃO: Pessoa que foi tão má em vida que seu cadáver 
+    foi rejeitado pela terra, sendo obrigada a vagar pelo mundo. 
+    Em outra versão, a maldição começa ainda em vida, e a
+    pessoa vai secando até morrer para virar um zumbi.
+
+7 - 
+    NOME: CURUPIRA
+
+    TIPO: LUTADOR
+
+    DESCRIÇÃO: Ser das matas com os pés para trás 
+    (que usa para deixar pegadas falsas) e cabelos de fogo.
+
+8 - 
+    NOME: ENCANTADOS
+
+    TIPO: PLANTA/FADA
+
+    DESCRIÇÃO: Uma pessoa que fez o bem na vida pode sumir 
+    na mata ao invés de morrer; alternativamente, podem 
+    nascer diretamente na mata, e ajudam aos que lhes chamam 
+    com boas intenções. A estes seres é dado o nome de "encantados".
+
+9 - 
+    NOME: GORJALA
+
+    TIPO: PEDRA
+
+    DESCRIÇÃO: É um gigante monstruoso que vive em cavernas e 
+    ambientes rochosos ou desfiladeiros.
+
+10 -
+    NOME: HOMEM DO SACO 
+
+    TIPO: NORMAL
+
+    DESCRIÇÃO: Monstro que sequestra crianças, carregando-as 
+    em um saco de tecido, e as usa para fazer sabão.
+
+11 - 
+    NOME: IARA
+
+    TIPO: AGUA/FADA
+
+    DESCRIÇÃO: Uma moça Kaiowá que era apaixonada por uma anta, 
+    mas seus pais não permitiram por ser um amor proibido; 
+    ela entrou na água e não quis mais sair de lá. Com o dilúvio, 
+    acabou vivendo na água e se tornou uma sereia. 
+
+12 -
+    NOME: LABATUT
+
+    TIPO: TERRA 
+
+    DESCRIÇÃO: Um cíclope espinhoso que ronda a fronteira do Ceará 
+    com o Rio Grande do Norte. Fica ouvindo atrás das portas de 
+    madrugada e se ouve alguém acordado entra para se alimentar.
+
+13 - 
+    NOME: LOBISOMEM
+
+    TIPO: SOMBRIO
+
+    DESCRIÇÃO: Os lobisomens brasileiros são muito mais associados a porcos,
+    javalis e cachorros do que lobos em si; além das formas clássicas de se 
+    tornar um, no Brasil isso pode ocorrer caso uma pessoa se esfregue no chão
+    onde um animal se esfregou. 
+
+14 - 
+    NOME: LOURA DO BANHEIRO
+
+    TIPO: FANTASMA
+
+    DESCRIÇÃO: Lenda dos anos 90 que podia ser evocada falando-se o seu nome em 
+    frente ao espelho do banheiro da escola.
+
+15 - 
+    NOME: MULA SEM CABEÇA
+
+    TIPO: FOGO
+
+    DESCRIÇÃO: Mulher do Padre que foi amaldiçoada pelo relacionamento proibido 
+    e agora tem que andar pelas encruzilhadas.
+
+16 -
+    NOME: NEGRINHO DO PASTOREIO
+
+    TIPO: FADA
+
+    DESCRIÇÃO:  Uma criança que sofreu nas mãos de fazendeiros escravistas e 
+    agora ajuda aos que lhe rogam para encontrar coisas perdidas. 
+
+17 - 
+    NOME: SACI
+
+    TIPO: LUTADOR
+
+    DESCRIÇÃO: Um pregador de peças que se assemelha aos barretes vermelhos e 
+    kobolds da Europa. Diz-se que ele nasce quando os bambuzais estalam e os 
+    gomos racham. 
+
+18 - 
+    NOME: ALMA DE GATO
+
+    TIPO: FOGO/SOMBRIO
+
+    DESCRIÇÃO:  Uma ave que quando canta diz-se que existe a alma de um gato por perto. 
+    Supostamente pode imitar outros pássaros.
+
+
+        ATAQUE MALANDRO
+            - 4 DANO
+            - USOS INFINITOS
+
+        MORDIDA
+            - 6 DANO
+            - USOS INFINITOS
+        
+
+
+
+    ATAQUES CARREGADOS:
+        BARRIGADA
+            - 12 DANO
+            - 3 USOS
+
+        HIPER FEIXE
+            - 17 DANO
+            - 1 USO      
+           
+
+             
+            
+
